@@ -1,0 +1,57 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: "Segoe UI", Verdana, sans-serif;
+}
+
+h1 {
+  background-image: url(img/Records.jpg);
+  color: white;
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background-color: #ef8354;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background-color: #0e7c7b;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  font-size: 25px;
+  background: #9c538b;
+  font-weight: bold;
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+}
+
+a {
+  color: #ef8354;
+}
+
+a.hover {
+  color: #9c528b;
+}
+
+.images {
+  width: 500px;
+}
+
+footer {
+  text-align: center;
+}
